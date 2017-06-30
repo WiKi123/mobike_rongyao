@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "419E86AE80A080C1F0C86E4B292A2FC701DCC789",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "419E86AE80A080C1F0C86E4B292A2FC701DCC789" : 9223372036854775807,
+    "8A5EF31B4F790F71C31FF4C61FD78B6101F873D5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "474575A4-B21A-4D61-B1B6-792FBED1FE97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "419E86AE80A080C1F0C86E4B292A2FC701DCC789" : "%E4%BB%BF%E6%91%A9%E6%8B%9C%E5%8D%95%E8%BD%A6-%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%90%83%E5%8A%A8%E7%94%BB\/",
+    "8A5EF31B4F790F71C31FF4C61FD78B6101F873D5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "王者荣耀碰碰球",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "王者荣耀碰碰球.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WiKi123\/---.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "419E86AE80A080C1F0C86E4B292A2FC701DCC789"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WiKi123\/-----.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A5EF31B4F790F71C31FF4C61FD78B6101F873D5"
+    }
+  ]
+}
