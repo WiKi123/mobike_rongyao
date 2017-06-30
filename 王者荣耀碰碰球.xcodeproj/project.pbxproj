@@ -1,0 +1,561 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3BD3E7351F062235005D3D77 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD3E7341F062235005D3D77 /* main.m */; };
+		3BD3E7381F062235005D3D77 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD3E7371F062235005D3D77 /* AppDelegate.m */; };
+		3BD3E73B1F062235005D3D77 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD3E73A1F062235005D3D77 /* ViewController.m */; };
+		3BD3E73E1F062236005D3D77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E73C1F062236005D3D77 /* Main.storyboard */; };
+		3BD3E7401F062236005D3D77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E73F1F062236005D3D77 /* Assets.xcassets */; };
+		3BD3E7431F062236005D3D77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E7411F062236005D3D77 /* LaunchScreen.storyboard */; };
+		3BD3E74E1F062236005D3D77 /* _______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD3E74D1F062236005D3D77 /* _______Tests.m */; };
+		3BD3E7591F062236005D3D77 /* _______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BD3E7581F062236005D3D77 /* _______UITests.m */; };
+		3BD3E7681F063BC5005D3D77 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E7661F063BC5005D3D77 /* 1.jpg */; };
+		3BD3E7691F063BC5005D3D77 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E7671F063BC5005D3D77 /* 2.jpg */; };
+		3BD3E76B1F064872005D3D77 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E76A1F064872005D3D77 /* 3.jpg */; };
+		3BD3E76D1F064877005D3D77 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E76C1F064877005D3D77 /* 4.jpg */; };
+		3BD3E76F1F06487B005D3D77 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E76E1F06487B005D3D77 /* 5.jpg */; };
+		3BD3E7711F06487F005D3D77 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BD3E7701F06487F005D3D77 /* 6.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3BD3E74A1F062236005D3D77 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BD3E7281F062235005D3D77 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BD3E72F1F062235005D3D77;
+			remoteInfo = "王者荣耀碰碰球";
+		};
+		3BD3E7551F062236005D3D77 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BD3E7281F062235005D3D77 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BD3E72F1F062235005D3D77;
+			remoteInfo = "王者荣耀碰碰球";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3BD3E7301F062235005D3D77 /* 王者荣耀碰碰球.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "王者荣耀碰碰球.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BD3E7341F062235005D3D77 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3BD3E7361F062235005D3D77 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3BD3E7371F062235005D3D77 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3BD3E7391F062235005D3D77 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3BD3E73A1F062235005D3D77 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3BD3E73D1F062236005D3D77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3BD3E73F1F062236005D3D77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BD3E7421F062236005D3D77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3BD3E7441F062236005D3D77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BD3E7491F062236005D3D77 /* 王者荣耀碰碰球Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "王者荣耀碰碰球Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BD3E74D1F062236005D3D77 /* _______Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______Tests.m"; sourceTree = "<group>"; };
+		3BD3E74F1F062236005D3D77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BD3E7541F062236005D3D77 /* 王者荣耀碰碰球UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "王者荣耀碰碰球UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BD3E7581F062236005D3D77 /* _______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______UITests.m"; sourceTree = "<group>"; };
+		3BD3E75A1F062236005D3D77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BD3E7661F063BC5005D3D77 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		3BD3E7671F063BC5005D3D77 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		3BD3E76A1F064872005D3D77 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		3BD3E76C1F064877005D3D77 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		3BD3E76E1F06487B005D3D77 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		3BD3E7701F06487F005D3D77 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BD3E72D1F062235005D3D77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7461F062236005D3D77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7511F062236005D3D77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3BD3E7271F062235005D3D77 = {
+			isa = PBXGroup;
+			children = (
+				3BD3E7321F062235005D3D77 /* 王者荣耀碰碰球 */,
+				3BD3E74C1F062236005D3D77 /* 王者荣耀碰碰球Tests */,
+				3BD3E7571F062236005D3D77 /* 王者荣耀碰碰球UITests */,
+				3BD3E7311F062235005D3D77 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3BD3E7311F062235005D3D77 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BD3E7301F062235005D3D77 /* 王者荣耀碰碰球.app */,
+				3BD3E7491F062236005D3D77 /* 王者荣耀碰碰球Tests.xctest */,
+				3BD3E7541F062236005D3D77 /* 王者荣耀碰碰球UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BD3E7321F062235005D3D77 /* 王者荣耀碰碰球 */ = {
+			isa = PBXGroup;
+			children = (
+				3BD3E7661F063BC5005D3D77 /* 1.jpg */,
+				3BD3E7671F063BC5005D3D77 /* 2.jpg */,
+				3BD3E76A1F064872005D3D77 /* 3.jpg */,
+				3BD3E76C1F064877005D3D77 /* 4.jpg */,
+				3BD3E76E1F06487B005D3D77 /* 5.jpg */,
+				3BD3E7701F06487F005D3D77 /* 6.jpg */,
+				3BD3E7361F062235005D3D77 /* AppDelegate.h */,
+				3BD3E7371F062235005D3D77 /* AppDelegate.m */,
+				3BD3E7391F062235005D3D77 /* ViewController.h */,
+				3BD3E73A1F062235005D3D77 /* ViewController.m */,
+				3BD3E73C1F062236005D3D77 /* Main.storyboard */,
+				3BD3E73F1F062236005D3D77 /* Assets.xcassets */,
+				3BD3E7411F062236005D3D77 /* LaunchScreen.storyboard */,
+				3BD3E7441F062236005D3D77 /* Info.plist */,
+				3BD3E7331F062235005D3D77 /* Supporting Files */,
+			);
+			path = "王者荣耀碰碰球";
+			sourceTree = "<group>";
+		};
+		3BD3E7331F062235005D3D77 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3BD3E7341F062235005D3D77 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3BD3E74C1F062236005D3D77 /* 王者荣耀碰碰球Tests */ = {
+			isa = PBXGroup;
+			children = (
+				3BD3E74D1F062236005D3D77 /* _______Tests.m */,
+				3BD3E74F1F062236005D3D77 /* Info.plist */,
+			);
+			path = "王者荣耀碰碰球Tests";
+			sourceTree = "<group>";
+		};
+		3BD3E7571F062236005D3D77 /* 王者荣耀碰碰球UITests */ = {
+			isa = PBXGroup;
+			children = (
+				3BD3E7581F062236005D3D77 /* _______UITests.m */,
+				3BD3E75A1F062236005D3D77 /* Info.plist */,
+			);
+			path = "王者荣耀碰碰球UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BD3E72F1F062235005D3D77 /* 王者荣耀碰碰球 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BD3E75D1F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球" */;
+			buildPhases = (
+				3BD3E72C1F062235005D3D77 /* Sources */,
+				3BD3E72D1F062235005D3D77 /* Frameworks */,
+				3BD3E72E1F062235005D3D77 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "王者荣耀碰碰球";
+			productName = "王者荣耀碰碰球";
+			productReference = 3BD3E7301F062235005D3D77 /* 王者荣耀碰碰球.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3BD3E7481F062236005D3D77 /* 王者荣耀碰碰球Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BD3E7601F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球Tests" */;
+			buildPhases = (
+				3BD3E7451F062236005D3D77 /* Sources */,
+				3BD3E7461F062236005D3D77 /* Frameworks */,
+				3BD3E7471F062236005D3D77 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BD3E74B1F062236005D3D77 /* PBXTargetDependency */,
+			);
+			name = "王者荣耀碰碰球Tests";
+			productName = "王者荣耀碰碰球Tests";
+			productReference = 3BD3E7491F062236005D3D77 /* 王者荣耀碰碰球Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3BD3E7531F062236005D3D77 /* 王者荣耀碰碰球UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BD3E7631F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球UITests" */;
+			buildPhases = (
+				3BD3E7501F062236005D3D77 /* Sources */,
+				3BD3E7511F062236005D3D77 /* Frameworks */,
+				3BD3E7521F062236005D3D77 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BD3E7561F062236005D3D77 /* PBXTargetDependency */,
+			);
+			name = "王者荣耀碰碰球UITests";
+			productName = "王者荣耀碰碰球UITests";
+			productReference = 3BD3E7541F062236005D3D77 /* 王者荣耀碰碰球UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BD3E7281F062235005D3D77 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = wiki;
+				TargetAttributes = {
+					3BD3E72F1F062235005D3D77 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = HN2YDE96HP;
+						ProvisioningStyle = Automatic;
+					};
+					3BD3E7481F062236005D3D77 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3BD3E72F1F062235005D3D77;
+					};
+					3BD3E7531F062236005D3D77 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3BD3E72F1F062235005D3D77;
+					};
+				};
+			};
+			buildConfigurationList = 3BD3E72B1F062235005D3D77 /* Build configuration list for PBXProject "王者荣耀碰碰球" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3BD3E7271F062235005D3D77;
+			productRefGroup = 3BD3E7311F062235005D3D77 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BD3E72F1F062235005D3D77 /* 王者荣耀碰碰球 */,
+				3BD3E7481F062236005D3D77 /* 王者荣耀碰碰球Tests */,
+				3BD3E7531F062236005D3D77 /* 王者荣耀碰碰球UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BD3E72E1F062235005D3D77 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD3E7431F062236005D3D77 /* LaunchScreen.storyboard in Resources */,
+				3BD3E7681F063BC5005D3D77 /* 1.jpg in Resources */,
+				3BD3E76D1F064877005D3D77 /* 4.jpg in Resources */,
+				3BD3E7691F063BC5005D3D77 /* 2.jpg in Resources */,
+				3BD3E7711F06487F005D3D77 /* 6.jpg in Resources */,
+				3BD3E76B1F064872005D3D77 /* 3.jpg in Resources */,
+				3BD3E7401F062236005D3D77 /* Assets.xcassets in Resources */,
+				3BD3E73E1F062236005D3D77 /* Main.storyboard in Resources */,
+				3BD3E76F1F06487B005D3D77 /* 5.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7471F062236005D3D77 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7521F062236005D3D77 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BD3E72C1F062235005D3D77 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD3E73B1F062235005D3D77 /* ViewController.m in Sources */,
+				3BD3E7381F062235005D3D77 /* AppDelegate.m in Sources */,
+				3BD3E7351F062235005D3D77 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7451F062236005D3D77 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD3E74E1F062236005D3D77 /* _______Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BD3E7501F062236005D3D77 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BD3E7591F062236005D3D77 /* _______UITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3BD3E74B1F062236005D3D77 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BD3E72F1F062235005D3D77 /* 王者荣耀碰碰球 */;
+			targetProxy = 3BD3E74A1F062236005D3D77 /* PBXContainerItemProxy */;
+		};
+		3BD3E7561F062236005D3D77 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BD3E72F1F062235005D3D77 /* 王者荣耀碰碰球 */;
+			targetProxy = 3BD3E7551F062236005D3D77 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3BD3E73C1F062236005D3D77 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BD3E73D1F062236005D3D77 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3BD3E7411F062236005D3D77 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BD3E7421F062236005D3D77 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3BD3E75B1F062236005D3D77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BD3E75C1F062236005D3D77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BD3E75E1F062236005D3D77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HN2YDE96HP;
+				INFOPLIST_FILE = "王者荣耀碰碰球/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.Album;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3BD3E75F1F062236005D3D77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HN2YDE96HP;
+				INFOPLIST_FILE = "王者荣耀碰碰球/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.Album;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		3BD3E7611F062236005D3D77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "王者荣耀碰碰球Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/王者荣耀碰碰球.app/王者荣耀碰碰球";
+			};
+			name = Debug;
+		};
+		3BD3E7621F062236005D3D77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "王者荣耀碰碰球Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/王者荣耀碰碰球.app/王者荣耀碰碰球";
+			};
+			name = Release;
+		};
+		3BD3E7641F062236005D3D77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "王者荣耀碰碰球UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "王者荣耀碰碰球";
+			};
+			name = Debug;
+		};
+		3BD3E7651F062236005D3D77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "王者荣耀碰碰球UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "王者荣耀碰碰球";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BD3E72B1F062235005D3D77 /* Build configuration list for PBXProject "王者荣耀碰碰球" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD3E75B1F062236005D3D77 /* Debug */,
+				3BD3E75C1F062236005D3D77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BD3E75D1F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD3E75E1F062236005D3D77 /* Debug */,
+				3BD3E75F1F062236005D3D77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3BD3E7601F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD3E7611F062236005D3D77 /* Debug */,
+				3BD3E7621F062236005D3D77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3BD3E7631F062236005D3D77 /* Build configuration list for PBXNativeTarget "王者荣耀碰碰球UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BD3E7641F062236005D3D77 /* Debug */,
+				3BD3E7651F062236005D3D77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BD3E7281F062235005D3D77 /* Project object */;
+}
